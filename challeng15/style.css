@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.div1{
+    background-color: gray;
+    height: 200px;
+    width: 200px;
+}
+
+.div2{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    color: white;
+    position: absolute;
+    left: 320px;
+}
+.div3{
+    background-color: black;
+    color: white;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 0px;
+    top: 270px;
+}
+.div4{
+    background-color: gray;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 170px;
+    left: 220px;
+}
+.main{
+    display: flex;
+}

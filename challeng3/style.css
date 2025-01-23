@@ -1,0 +1,27 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.main{
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+.div1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: gray;
+  height: 300px;
+  width: 300px;
+}
+
+.div2{
+  background-color: black;
+  height: 100px;
+  width: 100px;
+  color: white;
+}

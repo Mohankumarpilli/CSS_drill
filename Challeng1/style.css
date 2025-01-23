@@ -1,0 +1,38 @@
+  *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  .container {
+    display: flex;
+    position: relative;
+    height: 100px;
+  }
+
+  .div1 {
+    color: white;
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+  }
+
+  .div2 {
+    color: white;
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    right: 110px;
+  }
+
+  .div3 {
+    color: white;
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    right: 0px;
+  }

@@ -1,0 +1,22 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.item{
+  color: white;
+  background-color: black;
+  height: 100px;
+  width: 100px;
+}
+
+.div2{
+  color: white;
+  background-color: gray;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}

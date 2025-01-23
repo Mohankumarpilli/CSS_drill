@@ -1,0 +1,41 @@
+*{
+  margin: 0px;
+  width: 0px;
+  box-sizing: border-box;
+}
+
+.main{
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+}
+.div1{
+  height: 150px;
+  width: 350px;
+  color: white;
+  background-color: gray;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}
+
+.div2{
+  height: 100px;
+  width: 100px;
+  color: white;
+  background-color: black;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+}
+
+.div3{
+  height: 100px;
+  width: 100px;
+  color: white;
+  background-color: black;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+

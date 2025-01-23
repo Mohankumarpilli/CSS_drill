@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+.div1{
+    display: flex;
+    justify-content: flex-start;
+}
+.div23{
+    display: flex;
+    justify-content: flex-end;
+    gap: 1rem;
+}
+.item{
+    color: white;
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
